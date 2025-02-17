@@ -1,4 +1,4 @@
-#Type 2 Diabetes Prediction System
+### Type 2 Diabetes Prediction System
 **Accurately Predict Diabetes with AI!**
 
 This **Type 2 Diabetes Prediction System** is a **Flask-powered machine learning web app** which predicts the risk of diabetes based on principal health indicators. Developed using **Python, Flask, and Logistics Regression**, this project combines **data visualization (Matplotlib, NumPy)** with an **easy-to-use web interface** to generate speedy, accurate predictions.
@@ -20,6 +20,6 @@ This **Type 2 Diabetes Prediction System** is a **Flask-powered machine learning
   
 ### How to to install
 
-- Firstly install the all the libraries listed in requirements.txt using: pip install -r requirements.txt
-- Now run the main python file using: python app.py
+- Firstly install the all the libraries listed in requirements.txt using: ** pip install -r requirements.txt**
+- Now run the main python file using: **python app.py**
     
